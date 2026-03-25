@@ -35,4 +35,5 @@ El resultado es un **ciclo de caminata fluido** que demuestra el gran potencial 
 
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/442dfaad-e611-47a8-99ae-740f3fa2d108" />
 
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/2c3c5d5e-f68e-4753-9aba-758636b05b6a" />
 
