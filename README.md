@@ -25,12 +25,11 @@ Este proyecto documenta el proceso de creación de una animación tradicional 2D
 * **Alineación:** Una vez finalizados los 8 dibujos por separado, se utilizó el **Modo Edición** para superponerlos en el centro del lienzo.
 * **Fluidez:** Se tomó como punto de anclaje la cabeza y el lomo de la mascota para asegurar que el movimiento no tenga saltos bruscos y se sienta natural al reproducirse.
 
----
 
 ##  Resultado Final
 El resultado es un **ciclo de caminata fluido** que demuestra el gran potencial de Blender como herramienta para la animación 2D tradicional, combinando la precisión digital con técnicas clásicas de dibujo.
 
----
+
 *Proyecto inspirado en los flujos de trabajo de animación 2D en Blender.*
 
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/442dfaad-e611-47a8-99ae-740f3fa2d108" />
